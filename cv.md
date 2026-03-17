@@ -1,7 +1,7 @@
 # Curriculum Vitae
  
 *Name*: Alex Do<br>
-*Email*: [alex.do@email.com](alex.do@email.com)<br>
+*Email*: [alex.do@email.com](mailto:alex.do@email.com)<br>
 *Location*: New York, NY
  
 ## Summary:
